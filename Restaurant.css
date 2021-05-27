@@ -151,7 +151,7 @@ h2{
 /** css for categories **/
 
 .categories{
-    padding:4% 0;
+    padding:3% 0 1% 4%;
 }
 
 .box{
@@ -166,7 +166,7 @@ h2{
 
 
 .foodmenu{
-    padding:4% 0;
+    padding:3% 0 1% 5%;
     background-color: rgb(216, 214, 206);
 }
 
